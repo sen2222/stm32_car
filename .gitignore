@@ -1,0 +1,19 @@
+# Ignore Keil specific files
+*.uvoptx
+*.uvgui.*
+*.bak
+*.lst
+*.plg
+*.crf
+*.d
+*.map
+*.o
+*.lnp
+
+# Ignore output folders
+Objects/
+Listings/
+
+# Ignore other temporary files
+*.tmp
+*.log
