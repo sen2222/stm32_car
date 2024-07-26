@@ -25,8 +25,8 @@
 - **计数器**: TIM1
 - **引脚连接**:
   - STM32 A12 <--> PWMA
-  - STM32 B3  <--> AIN1
-  - STM32 B4  <--> AIN2
+  - STM32 B8  <--> AIN1
+  - STM32 B9  <--> AIN2
   - STM32 A10 <--> PWMB
   - STM32 B5  <--> BIN2
   - STM32 B6  <--> BIN1
