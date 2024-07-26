@@ -36,16 +36,22 @@ int main(void)
 					Servo_Setstraight(); 	// 回正
 					break;
 					
-				case 'u':
+				case 'U':
 					Moter_Up();				//前进
 					break;
 					
-				case 'd':
+				case 'D':
 					Moter_Down();			//后退
 					break;
 					
-				case 'o':
-					Moter_Stop();
+				case 'O':
+					Moter_Stop();			//停车
+					break;
+				case 'A':
+					Moter_AddSpeed();		//加速
+					break;
+				case 'B':
+					Moter_SubSpeed();		//减速
 					break;
 				
 			}

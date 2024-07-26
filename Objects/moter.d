@@ -29,3 +29,6 @@
 .\objects\moter.o: .\Library\stm32f10x_wwdg.h
 .\objects\moter.o: .\Library\misc.h
 .\objects\moter.o: .\System\TIM1.h
+.\objects\moter.o: Hardware\HC05.h
+.\objects\moter.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\moter.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
