@@ -1,0 +1,6 @@
+# 设置项目文件的换行符为 LF
+*.c text eol=lf
+*.h text eol=lf
+*.uvprojx text eol=lf
+*.uvoptx text eol=lf
+*.uvguix.* text eol=lf
